@@ -1,7 +1,7 @@
 Hiatus
 ======
 
-![API Documentation](https://docs.rs/mio/badge.svg) ![hiatus crate](https://img.shields.io/crates/v/hiatus)
+![hiatus crate](https://img.shields.io/crates/v/hiatus) ![API Documentation](https://docs.rs/hiatus/badge.svg)
 
 Hiatus is a concurrency debugging library for Rust. It allows you to sprinkle breakpoints
 in your programs so that blocks of code execute in the order you choose. If you suspect that a
