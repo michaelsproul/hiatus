@@ -1,12 +1,13 @@
 [package]
 name = "hiatus"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Michael Sproul <michael@sproul.xyz>"]
 license = "Apache-2.0"
 description = "Debug concurrent programs by choosing specific execution traces"
 keywords = ["tracing", "concurrency", "locking"]
 categories = ["concurrency", "development-tools::debugging", "development-tools::testing"]
 repository = "https://github.com/michaelsproul/hiatus"
+documentation = "https://docs.rs/hiatus"
 edition = "2018"
 
 [dependencies]

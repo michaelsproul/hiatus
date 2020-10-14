@@ -6,6 +6,8 @@ in your programs so that blocks of code execute in the order you choose. If you 
 specific interleaving of blocks is buggy, you can use Hiatus to invoke that ordering and
 confirm the existence of the bug.
 
+[API Documentation](https://docs.rs/hiatus)
+
 ## Motivation
 
 Drunk on the promise of fearless concurrency you have adorned your program with type-safe
