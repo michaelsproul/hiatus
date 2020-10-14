@@ -1,0 +1,14 @@
+[package]
+name = "hiatus"
+version = "0.1.0"
+authors = ["Michael Sproul <michael@sproul.xyz>"]
+license = "Apache-2.0"
+description = "Debug concurrent programs by choosing specific execution traces"
+keywords = ["tracing", "concurrency", "locking"]
+categories = ["concurrency", "development-tools::debugging", "development-tools::testing"]
+repository = "https://github.com/michaelsproul/hiatus"
+edition = "2018"
+
+[dependencies]
+lazy_static = "1.4.0"
+parking_lot = "0.11.0"
